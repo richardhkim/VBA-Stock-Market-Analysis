@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub multiple_year_stock_data():
 
     For Each ws In Worksheets
